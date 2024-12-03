@@ -1,8 +1,8 @@
 ## Overview
-In the `Part_2` directory, I used a script named `week_5_lab.py` to process the original `YellowTaxiData.csv` file. The purpose of this script was to reduce the number of rows in the dataset to 100 rows. This was because the original file was too large to be sent as an attachment for testing the cloud flow.
+In the `Part_2` directory, I used a script named `week_5_lab.py` to process the original `YelloTaxiData.csv` file. The purpose of this script was to reduce the number of rows in the dataset to 100 rows. This was because the original file was too large to be sent as an attachment for testing the cloud flow.
 
 ## Process
-1. **Original File**: `YellowTaxiData.csv` (not included in the repository)
+1. **Original File**: `YelloTaxiData.csv` (not included in the repository)
 2. **Script Used**: `week_5_lab.py`
 3. **Operation**: Reduced the rows to 100
 4. **New File**: `YelloTaxiData_new.csv` (not included in the repository)
